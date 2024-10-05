@@ -1,0 +1,14 @@
+C:\Users\BananaFish\source\repos\BankPA\BankPA\bin\Debug\net8.0\BankPA.exe
+C:\Users\BananaFish\source\repos\BankPA\BankPA\bin\Debug\net8.0\BankPA.deps.json
+C:\Users\BananaFish\source\repos\BankPA\BankPA\bin\Debug\net8.0\BankPA.runtimeconfig.json
+C:\Users\BananaFish\source\repos\BankPA\BankPA\bin\Debug\net8.0\BankPA.dll
+C:\Users\BananaFish\source\repos\BankPA\BankPA\bin\Debug\net8.0\BankPA.pdb
+C:\Users\BananaFish\source\repos\BankPA\BankPA\obj\Debug\net8.0\BankPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BananaFish\source\repos\BankPA\BankPA\obj\Debug\net8.0\BankPA.AssemblyInfoInputs.cache
+C:\Users\BananaFish\source\repos\BankPA\BankPA\obj\Debug\net8.0\BankPA.AssemblyInfo.cs
+C:\Users\BananaFish\source\repos\BankPA\BankPA\obj\Debug\net8.0\BankPA.csproj.CoreCompileInputs.cache
+C:\Users\BananaFish\source\repos\BankPA\BankPA\obj\Debug\net8.0\BankPA.dll
+C:\Users\BananaFish\source\repos\BankPA\BankPA\obj\Debug\net8.0\refint\BankPA.dll
+C:\Users\BananaFish\source\repos\BankPA\BankPA\obj\Debug\net8.0\BankPA.pdb
+C:\Users\BananaFish\source\repos\BankPA\BankPA\obj\Debug\net8.0\BankPA.genruntimeconfig.cache
+C:\Users\BananaFish\source\repos\BankPA\BankPA\obj\Debug\net8.0\ref\BankPA.dll

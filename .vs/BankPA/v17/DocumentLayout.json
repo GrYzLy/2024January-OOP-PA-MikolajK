@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|c:\\users\\bananafish\\source\\repos\\bankpa\\bankpa\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|solutionrelative:bankpa\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|c:\\users\\bananafish\\source\\repos\\bankpa\\bankpa\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|solutionrelative:bankpa\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|c:\\users\\bananafish\\source\\repos\\bankpa\\bankpa\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|solutionrelative:bankpa\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|c:\\users\\bananafish\\source\\repos\\bankpa\\bankpa\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|solutionrelative:bankpa\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|c:\\users\\bananafish\\source\\repos\\bankpa\\bankpa\\investments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|solutionrelative:bankpa\\investments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|c:\\users\\bananafish\\source\\repos\\bankpa\\bankpa\\savings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|solutionrelative:bankpa\\savings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|c:\\users\\bananafish\\source\\repos\\bankpa\\bankpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|solutionrelative:bankpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|c:\\users\\bananafish\\source\\repos\\bankpa\\bankpa\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460882C-53C3-47C9-A7AD-35398D15A30F}|BankPA\\BankPA.csproj|solutionrelative:bankpa\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 129,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankController.cs",
+              "DocumentMoniker": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\BankController.cs",
+              "RelativeDocumentMoniker": "BankPA\\BankController.cs",
+              "ToolTip": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\BankController.cs",
+              "RelativeToolTip": "BankPA\\BankController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:05:36.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Investments.cs",
+              "DocumentMoniker": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Investments.cs",
+              "RelativeDocumentMoniker": "BankPA\\Investments.cs",
+              "ToolTip": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Investments.cs",
+              "RelativeToolTip": "BankPA\\Investments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:56:45.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Savings.cs",
+              "DocumentMoniker": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Savings.cs",
+              "RelativeDocumentMoniker": "BankPA\\Savings.cs",
+              "ToolTip": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Savings.cs",
+              "RelativeToolTip": "BankPA\\Savings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:46:45.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Account.cs",
+              "RelativeDocumentMoniker": "BankPA\\Account.cs",
+              "ToolTip": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Account.cs",
+              "RelativeToolTip": "BankPA\\Account.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:16:44.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Customer.cs",
+              "RelativeDocumentMoniker": "BankPA\\Customer.cs",
+              "ToolTip": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Customer.cs",
+              "RelativeToolTip": "BankPA\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:13:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\IAccount.cs",
+              "RelativeDocumentMoniker": "BankPA\\IAccount.cs",
+              "ToolTip": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\IAccount.cs",
+              "RelativeToolTip": "BankPA\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:12:38.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\AccountType.cs",
+              "RelativeDocumentMoniker": "BankPA\\AccountType.cs",
+              "ToolTip": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\AccountType.cs",
+              "RelativeToolTip": "BankPA\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:08:26.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Program.cs",
+              "RelativeDocumentMoniker": "BankPA\\Program.cs",
+              "ToolTip": "C:\\Users\\BananaFish\\source\\repos\\BankPA\\BankPA\\Program.cs",
+              "RelativeToolTip": "BankPA\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:06:50.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
